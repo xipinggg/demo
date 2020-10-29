@@ -5,6 +5,6 @@
 
 int main()
 {
-
+    printf("dxfgdf\n");
     return 0;
 }
